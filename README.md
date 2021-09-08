@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 - [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for golang,rust-lang.
 - [💧 Obity/mux](https://github.com/obity/mux) - Mux is a simple and efficient route distributor that supports the net/http interface of the standard library.
-- [💧 Go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf) - My vim conf for golang IDE and rust IDE
+- [💧 Go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf) - My vim conf for golang IDE and rust IDE.
 - [💧 Properties](https://github.com/obity/properties) - Properties is a Go library for reading and writing properties files.
-- [💧 Pretree](crates.io/crates/pretree) - Pretree is a package for storing and querying routing rules with prefix tree . obity/pretree in rust lang.
+- [💧 Pretree](https://crates.io/crates/pretree) - Pretree is a package for storing and querying routing rules with prefix tree. obity/pretree in rust lang.
 - [💧 Colorstyle](https://crates.io/crates/colorstyle) - ColorStyle is a library of styles for command-line text write in Rust.
 - [💧 Flylog](https://github.com/flylog/flylog) - Flylog is a simple and fast development log module. it is developing...
 

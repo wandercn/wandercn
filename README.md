@@ -30,7 +30,7 @@
 
 ### Project
 
-- [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for golang,rust-lang.
+- [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for Go, Rust.
 - [💧 Obity/mux](https://github.com/obity/mux) - Mux is a simple and efficient route distributor that supports the net/http interface of the standard library.
 - [💧 Go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf) - My vim conf for golang IDE and rust IDE.
 - [💧 Properties](https://github.com/obity/properties) - Properties is a Go library for reading and writing properties files.

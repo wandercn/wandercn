@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with developing a web framework.
 - 💬 Ask me about: How to build your own domain name e-mail system.
 - 📫 How to reach me: wander@ffactory.org
-- 😄 Pronouns: Chives who lost money in the stock market. Logic programmer, is most programmers can not escape the fate of the programmer.
+- 😄 Pronouns: Chives who lost money in the stock market. Logic programmers, a fate that most programmers cannot escape.
 - ⚡ Fun fact: Young people have to think about how to get rich, don't manage money because you have too little capital.
 
 

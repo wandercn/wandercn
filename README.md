@@ -27,6 +27,7 @@
 - [🌟 Hotbuild](https://hotbuild.ffactory.org/) - Project Home
 - [🌟 VIM](https://vim.ffactory.org/) - vim conf for Rust and Go
 - [🌟 Colorstyle](https://colorstyle.ffactory.org/) - Project Home
+- [🌟 Rust标准库中文文档](https://rust.ffactory.org/)
 
 ### Project
 

@@ -38,4 +38,6 @@
 - [💧 Colorstyle](https://crates.io/crates/colorstyle) - ColorStyle is a library of styles for command-line text write in Rust.
 - [💧 Flylog](https://github.com/flylog/flylog) - Flylog is a simple and fast development log module. it is developing...
 - [💧 Gostd](https://crates.io/crates/gostd) - Gostd is the golang standard library implementation in rust-lang. 
+- [💧 alibaba-cloud-sdk-rust](https://crates.io/crates/alibaba-cloud-sdk-rust) - alibaba-cloud-sdk-rust 阿里云短信rust sdk .
+- [💧 gostd_settings](https://crates.io/crates/gostd_settings) - gostd_settings is library for reading and writing properties files.
 

@@ -40,4 +40,5 @@
 - [💧 Gostd](https://crates.io/crates/gostd) - Gostd is the golang standard library implementation in rust-lang. 
 - [💧 alibaba-cloud-sdk-rust](https://crates.io/crates/alibaba-cloud-sdk-rust) - alibaba-cloud-sdk-rust 阿里云短信rust sdk .
 - [💧 gostd_settings](https://crates.io/crates/gostd_settings) - gostd_settings is library for reading and writing properties files.
+- [💧 alipay_sdk_rust](https://crates.io/crates/alipay_sdk_rust) - alipay_sdk_rust is alipay sdk in rust 支付宝支付rust sdk.
 

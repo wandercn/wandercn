@@ -30,6 +30,7 @@
 - [🌟 Rust标准库中文文档](https://rust.ffactory.org/)
 
 ### Project
+- [💧 flac_music](https://github.com/wandercn/flac_music) - Music player based on druid GUI
 - [💧 HiPoster](https://github.com/obity/hiposter) - HiPoster is a simple and efficient http API testing client tool. Based on Wails, Go and sveltejs.
 - [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for Go, Rust.
 - [💧 Obity/mux](https://github.com/obity/mux) - Mux is a simple and efficient route distributor that supports the net/http interface of the standard library.

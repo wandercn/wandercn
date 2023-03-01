@@ -30,6 +30,7 @@
 - [🌟 Rust标准库中文文档](https://rust.ffactory.org/)
 
 ### Project
+- [💧 HiPoster](https://github.com/obity/hiposter) - HiPoster is a simple and efficient http API testing client tool. Based on Wails, Go and sveltejs.
 - [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for Go, Rust.
 - [💧 Obity/mux](https://github.com/obity/mux) - Mux is a simple and efficient route distributor that supports the net/http interface of the standard library.
 - [💧 Go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf) - My vim conf for golang IDE and rust IDE.

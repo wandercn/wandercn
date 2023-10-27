@@ -30,6 +30,7 @@
 - [🌟 Rust标准库中文文档](https://rust.ffactory.org/)
 
 ### Project
+- [💧 fmusic](https://github.com/wandercn/fmusic) - fmusic is a open source music player on SwiftUI
 - [💧 flac_music](https://github.com/wandercn/flac_music) - Music player based on druid GUI
 - [💧 HiPoster](https://github.com/obity/hiposter) - HiPoster is a simple and efficient http API testing client tool. Based on Wails, Go and sveltejs.
 - [💧 Hotbuild](https://github.com/wandercn/hotbuild) - Hotbuild is a cross platform hot compilation tool for Go, Rust.

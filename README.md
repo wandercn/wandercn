@@ -23,11 +23,11 @@
 
 ### WebSite
 
-- [🌟 Blog](https://www.ffactory.org/)
-- [🌟 Hotbuild](https://hotbuild.ffactory.org/) - Project Home
-- [🌟 VIM](https://vim.ffactory.org/) - vim conf for Rust and Go
-- [🌟 Colorstyle](https://colorstyle.ffactory.org/) - Project Home
-- [🌟 Rust标准库中文文档](https://rust.ffactory.org/)
+- [🌟 Blog](https://www.ooty.cn/)
+- [🌟 Hotbuild](https://hotbuild.ooty.cn/) - Project Home
+- [🌟 VIM](https://vim.ooty.cn/) - vim conf for Rust and Go
+- [🌟 Colorstyle](https://colorstyle.ooty.cn/) - Project Home
+- [🌟 Rust标准库中文文档](https://rust.ooty.cn/)
 
 ### Project
 - [💧 fmusic](https://github.com/wandercn/fmusic) - fmusic is a open source music player on SwiftUI

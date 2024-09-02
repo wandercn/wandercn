@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with developing a web framework.
 - 💬 Ask me about: How to build your own domain name e-mail system.
-- 📫 How to reach me: wander@ffactory.org
+- 📫 How to reach me: wander@rustpub.com
 - 😄 Pronouns: Chives who lost money in the stock market. Logic programmers, a fate that most programmers cannot escape.
 - ⚡ Fun fact: Young people have to think about how to get rich, don't manage money because you have too little capital.
 
@@ -23,11 +23,11 @@
 
 ### WebSite
 
-- [🌟 Blog](https://www.ooty.cn/)
-- [🌟 Hotbuild](https://hotbuild.ooty.cn/) - Project Home
-- [🌟 VIM](https://vim.ooty.cn/) - vim conf for Rust and Go
-- [🌟 Colorstyle](https://colorstyle.ooty.cn/) - Project Home
-- [🌟 Rust标准库中文文档](https://rust.ooty.cn/)
+- [🌟 Blog](https://www.rustpub.com/)
+- [🌟 Hotbuild](https://hotbuild.rustpub.com/) - Project Home
+- [🌟 VIM](https://vim.rustpub.com/) - vim conf for Rust and Go
+- [🌟 Colorstyle](https://colorstyle.rustpub.com/) - Project Home
+- [🌟 Rust标准库中文文档](https://rust.rustpub.com/)
 
 ### Project
 - [💧 fmusic](https://github.com/wandercn/fmusic) - fmusic is a open source music player on SwiftUI

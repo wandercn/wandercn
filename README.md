@@ -27,7 +27,7 @@
 - [🌟 Hotbuild](https://hotbuild.rustpub.com/) - Project Home
 - [🌟 VIM](https://vim.rustpub.com/) - vim conf for Rust and Go
 - [🌟 Colorstyle](https://colorstyle.rustpub.com/) - Project Home
-- [🌟 Rust标准库中文文档](https://rust.rustpub.com/)
+- [🌟 Rust标准库中文文档](https://std.rustpub.com/)
 
 ### Project
 - [💧 fmusic](https://github.com/wandercn/fmusic) - fmusic is a open source music player on SwiftUI
